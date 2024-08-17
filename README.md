@@ -67,6 +67,10 @@ Luxury Healthcare is a comprehensive Fullstack Project designed to streamline an
 
 - **Lambda Function**: Build and invoke serverless functions with Docker
 
+### UI
+-  **Figma**: Building UI
+ (Check Release for Fig file) 
+
 ## ScreenShots
 
 <table>
