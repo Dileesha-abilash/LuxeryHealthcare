@@ -37,7 +37,7 @@ Luxury Healthcare is a comprehensive Fullstack Project designed to streamline an
     - **Data Fetching:** React Query
     - **Local Storage:** AsyncStorage
     - **Camera Access:** RN Camera
-
+- **Electron** 
 ### Backend
 
 - **Golang**
