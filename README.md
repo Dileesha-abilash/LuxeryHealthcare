@@ -1,6 +1,7 @@
 # Luxury Healthcare
 
 Luxury Healthcare is a comprehensive Fullstack Project designed to streamline and automate the daily operations of a medical practice. The system comprises two applications: one for administrators and another for patients. It includes features for managing patients, drugs, appointments, and secure user authentication.
+![icon](https://github.com/user-attachments/assets/544affce-3026-4b37-b7ef-a91646ed9925)
 
 ## Features
 
